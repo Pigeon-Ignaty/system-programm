@@ -1,0 +1,11 @@
+INSERT INTO property_s_object (id,address,floor,number_of_rooms,type,status,cost,description_of_the_object,building_material,square,date_of_announcement,area) VALUES
+  (1,"Ap 736-5049 Cras Avenue",7,1,2,0,2854375,"Lorem",2,75,"2023,6,4",3),
+  (2,"Ap 271-4617 Tincidunt, Rd.",9,1,3,1,7400951,"Lorem ipsum dolor",3,78,"2023,3,4",4),
+  (3,"7248 Pretium Av.",6,2,2,1,3346564,"Lorem ipsum",3,91,"2023,1,3",3),
+  (4,"454-3052 Congue St.",6,4,2,0,1115951,"Lorem ipsum",1,90,"2023,3,9",2),
+  (5,"251-4663 Mi Ave",9,3,1,1,5026174,"Lorem",1,72,"2022,3,5",4),
+  (6,"P.O. Box 650, 2168 Sed St.",6,4,1,0,6948274,"Lorem ipsum",3,88,"2023,8,6",1),
+  (7,"Ap #884-9099 Dapibus Avenue",10,3,1,0,5673432,"Lorem ipsum",2,62,"2023,2,7",3),
+  (8,"530-538 Nec St.",8,0,3,1,4803845,"Lorem ipsum",2,83,"2023,4,3",3),
+  (9,"8561 Dictum Ave",3,0,1,1,5477482,"Lorem",2,91,"2024,10,4",4),
+  (10,"434-6875 Cursus, St.",0,4,3,0,1397346,"Lorem ipsum dolor",2,44,"2022,1,5",2)
